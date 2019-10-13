@@ -1,0 +1,14 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "World waether app",
+  "main": "server.js",
+  "author": "Jospeh Akeni",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ejs": "^1.0.0",
+    "request": "^2.88.0",
+    "body-parser": "^1.19.0"
+  }
+}
